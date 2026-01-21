@@ -34,6 +34,13 @@ The platform connects skilled laborers (electricians, plumbers, carpenters, etc.
 ✅ Completed (SDP Phase IV – Final)
 
 
+## 📱 APK File
+
+The final **ProLabour APK** is available under GitHub Releases:
+
+
+➡️ [Download the APK]https://github.com/MuhammadSamiKhann/ProLabour-FYP/releases/new
+
 ## 👨‍💻 Role
 - **Muhammad Sami Khan** – Full Stack Development, UI/UX, QA, Documentation  
 
